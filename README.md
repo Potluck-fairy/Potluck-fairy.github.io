@@ -1,2 +1,1 @@
-repo for personal/academic github page
-test
+repo for github page
