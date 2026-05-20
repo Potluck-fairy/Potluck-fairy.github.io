@@ -1,3 +1,8 @@
-# Welcome!
+---
+layout: home
+title: home
+---
 
-### I am a graduate student at the University of North Carolina at Charlotte, completing a master's degree in data science and business analytics. I have also earned a Bachelor of Science in computer science from the University of North Carolina at Charlotte and an Associate of Arts degree from Forsyth Technical Community College. Through technology, I hope to improve the world one update at a time.
+### Welcome!
+
+I am a graduate student at the University of North Carolina at Charlotte, completing a master's degree in data science and business analytics. I have also earned a Bachelor of Science in computer science from the University of North Carolina at Charlotte and an Associate of Arts degree from Forsyth Technical Community College. Through technology, I hope to improve the world one update at a time.
