@@ -1,5 +1,5 @@
 title: Trinity Thao
-remote_theme: 'academicpages/academicpages.github.io'
+remote_theme: 'nmistakes/minimal-mistakes'
 
 plugins:
   - jekyll-include-cache
