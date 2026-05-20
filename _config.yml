@@ -1,6 +1,6 @@
 title: Trinity Thao
 email: tthao2@charlotte.edu
 description: Trinity's website
-remote_theme: 'academicpages/academicpages.github.io'
+remote_theme: 'academicpages/academicpages'
 plugins:
   - jekyll-include-cache
