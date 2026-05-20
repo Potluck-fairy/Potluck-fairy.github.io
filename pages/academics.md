@@ -1,1 +1,6 @@
-# academics
+---
+layout: single
+title: academics
+---
+
+hello
