@@ -1,5 +1,5 @@
 title: Trinity Thao
-remote_theme: 'nmistakes/minimal-mistakes'
+remote_theme: 'mmistakes/minimal-mistakes'
 
 plugins:
   - jekyll-include-cache
